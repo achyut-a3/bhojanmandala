@@ -4,7 +4,7 @@
 
 - [x] Install [NodeJs](https://nodejs.org/en)
 - [x] Install [Visual Studio Code](https://code.visualstudio.com)
-- [x] Install [Git](https://git-scm.com)
+
 
 ## 2. Creating React App
 
